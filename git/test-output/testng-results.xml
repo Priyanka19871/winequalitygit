@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54740" started-at="2019-06-13T04:43:19Z" finished-at="2019-06-13T04:44:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54740" started-at="2019-06-13T04:43:19Z" finished-at="2019-06-13T04:44:13Z">
+      <class name="WineQuality.WineQuality">
+        <test-method status="PASS" signature="testNewUrl()[pri:0, instance:WineQuality.WineQuality@45820e51]" name="testNewUrl" duration-ms="54721" started-at="2019-06-13T04:43:19Z" finished-at="2019-06-13T04:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewUrl -->
+      </class> <!-- WineQuality.WineQuality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
